@@ -1,13 +1,10 @@
-# Copilot Advanced Training - Session 2 Exercises 🚀
-
-
-## 🗺️ Plan Mode
+# 🗺️ Plan Mode
 
 In this exercise we use Copilot CLI's **Plan mode** to design a feature, then use the experimental **rubber-duck** agent to get a second-opinion critique on the plan from a different model. Only after revising the plan based on that feedback do we let Copilot implement it.
 
 The feature we'll plan and build is **task reordering by drag-and-drop**.
 
-### 🦆 Why rubber-duck?
+## 🦆 Why rubber-duck?
 
 The rubber-duck agent (added in Copilot CLI 1.0.42, available behind `/experimental`) reviews the current plan with a *complementary model* from a different model family.
 
